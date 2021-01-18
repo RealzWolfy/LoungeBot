@@ -1,0 +1,44 @@
+{
+    "m": {
+        "kick": "`!kick <@user>` - Kick an user.",
+        "ban": "`!ban <@user>` - Ban an user.",
+        "clear": "`!clear <2 - 99>` - Delete messages.",
+        "announce": "`!announce <thumbimg> <bannerimg> <title> <content>`"
+    },
+    "i": {
+        "help": "`!help` - Show the list of all Help-Subcategories.",
+        "botinfo": "`!botinfo` - Information about this bot.",
+        "changelog": "`!changelog` - Changelog of the current version.",
+        "status": "`!status` - Bot's hosting status.",
+        "credits": "`!credits` - Credits for API's and users.",
+        "partner": "`!partner` - List of all partner's.",
+        "ui": "`!ui <@user>` - Get information from an user.",
+        "si": "`!si` - Get guild information."
+    },
+    "f": {
+        "coinflip": "`!cf` - Flip a coin.",
+        "random": "`!random <x> <y>` - Get a random number between `x` and `y`",
+        "yon": "`!yon` - 50/50 chance for yes/no.",
+        "supreme": "`!supreme <text>` - Custom Supreme logo.",
+        "scroll": "`!scroll <text>` - Custom scroll meme.",
+        "facts": "`!facts <text>` - Custom facts meme.",
+        "captcha": "`!captcha <text>` - Custom Captcha text",
+        "calling": "`!calling <text>` - Custom Tom & Jerry calling meme.",
+        "achievement": "`!achievement <text>` - Custom Minecraft achievement text.",
+        "meme": "`!meme` - Random memes from various Subreddits.",
+        "wallpaper":"`!wallpaper` - Random wallpaper from `r/wallpaper` & `r/wallpapers`."
+    },
+    "r": {
+        "hug": "`!hug <@user> / <custom>` - Hug an user.",
+        "kiss": "`!kiss <@user> / <custom>` - Kiss an user.",
+        "slap": "`!slap <@user> / <custom>` - Slap an user."
+    },
+    "np": {
+        "nps": "`!nps <articlename>` - Search for a specific Nyropedia article.",
+        "npa": "`!npa <articlename> <content>` - Create a Nyropedia article.",
+        "npd": "`!npd <articlename>` - Delete one of your articles.",
+        "npe": "`!npe <articlename> <content>` - Edit one of your Nyropedia articles.",
+        "npl": "`!npl` - List all Nyropedia articles.",
+        "npr": "`!npr` - Global Nyropedia rules."
+    }
+}

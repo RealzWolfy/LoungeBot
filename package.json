@@ -1,0 +1,19 @@
+{
+  "name": "kenya-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zWolfy",
+  "license": "ISC",
+  "dependencies": {
+    "del": "^6.0.0",
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "random-puppy": "^1.1.0",
+    "url": "^0.11.0"
+  }
+}
