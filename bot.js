@@ -1137,7 +1137,7 @@ function cmd_help(msg) {
     const np = client.emojis.cache.get('799640115953139742'); // Nyropedia emoji
     const mask = client.emojis.cache.get('800033840482746368'); // Mask emoji
 
-    embeds.info(msg.channel, `${mask} __**Covid-19 Information**__:\n\`!wearamask\` - Information about the current situation.\n\n${m} __Moderation__\n\`!moderation\` - Stuff like kicking/banning.\n\n${i} __Information__\n\`!i\` - Stuff like bot info/changelog.\n\n${f} __Fun__\n\`!fun\` - Stuff like image manipulation/memes.\n\n${m} __Roleplay__\n\`!rp\` - Stuff like hugging/slapping.\n\n${m} __Nyropedia__\n\`!np\` - Own Wiki-System (Original code from zWolfy's old bot Nyro).`, '» Command-List');
+    embeds.info(msg.channel, `${mask} __**Covid-19 Information**__:\n\`!wearamask\` - Information about the current situation.\n\n${m} __Moderation__\n\`!moderation\` - Stuff like kicking/banning.\n\n${i} __Information__\n\`!i\` - Stuff like bot info/changelog.\n\n${f} __Fun__\n\`!fun\` - Stuff like image manipulation/memes.\n\n${rp} __Roleplay__\n\`!rp\` - Stuff like hugging/slapping.\n\n${np} __Nyropedia__\n\`!np\` - Own Wiki-System (Original code from zWolfy's old bot Nyro).`, '» Command-List');
 }
 
 function cmd_moderation(msg) {
